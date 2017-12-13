@@ -6,11 +6,11 @@ For this resource you will need the animation you created in the [Animate a snow
 
 ![Play the animation](images/blender-play.png)
 
-+ Next, check whether the camera is in the right location. Press <kbd>F12</kbd> (<kbd>FN + F12</kbd>, if on a Mac) to render the scene.
++ Next, check whether the camera is in the right location. Press <kbd>F12</kbd> (<kbd>FN + F12</kbd>, if on a Mac) to render the scene. Press <kbd>Esc</kbd> to exit this view.
 
 You can also check what the full animation will look like from the camera's position.
 
-+ If you are using a desktop computer, press 0 on the numpad (the small set of keys on the right hand side of your keyboard). Laptops don't have numpads so instead, select **View** > **Cameras** from the menu, then select **Active camera**
++ If you are using a desktop computer, press 0 on the numpad (the small set of number keys on the right hand side of your keyboard). Laptops don't have numpads, so instead select **View** > **Cameras** from the menu, then select **Active camera**
 
 ![Select view then camera](images/select-view-camera.png)
 
