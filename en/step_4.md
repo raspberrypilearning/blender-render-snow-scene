@@ -43,7 +43,7 @@ This is where Blender will save your files.
 
 So now you have PAL, 24 frames per second and you are saving to a location that you have access to.
 
-## The file format
+### The file format
 
 Lastly, you need to set the file format to a video format.
 
