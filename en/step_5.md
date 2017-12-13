@@ -1,6 +1,6 @@
 ## Render
 
-Let's get ready to render.
+Now you are ready to render.
 
 + Scroll back to the top of the right hand panel and click on animation.
 
