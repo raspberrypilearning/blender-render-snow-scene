@@ -1,6 +1,6 @@
-# blender-render-snow-scene
+# Render a snow scene
 
-![blender-render-snow-scene](/en/images/banner.png)
+![Render a snow scene](/en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/blender-render-snow-scene](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene)
 
