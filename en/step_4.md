@@ -1,6 +1,6 @@
 ## Render settings
 
-Let's render the animation!
+Before render the animation, let's decide how the final video will be saved.
 
 + On the right-hand panel, make sure you have selected the **Camera**.
 
