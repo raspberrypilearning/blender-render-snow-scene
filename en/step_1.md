@@ -1,6 +1,6 @@
 ## Introduction
 
-Render a snow scene animation using Blender
+Render a snow scene animation using Blender.
 
 ### What you will make
 
