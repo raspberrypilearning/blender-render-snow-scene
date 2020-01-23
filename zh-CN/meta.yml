@@ -1,0 +1,30 @@
+---
+title: Render a snow scene
+hero_image: images/banner.png
+description: Render a snow scene animation using Blender
+theme: 红色 #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art, weather
+technologies: blender
+site_areas: codeclub, webdev
+hardware: ''
+software: blender
+version: 3
+last_tested: 2017年1月1日
+steps:
+  - 
+    title: 介绍
+  - 
+    title: 你将需要什么
+  - 
+    title: Check your animation
+  - 
+    title: Render settings
+  - 
+    title: Render
+  - 
+    title: "Challenge: different settings"
