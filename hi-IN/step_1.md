@@ -1,25 +1,25 @@
-## Introduction
+## परिचय
 
-Render a snow scene animation using Blender.
+Blender का उपयोग करके बर्फ के दृश्य का एनिमेशन प्रस्तुत करें।
 
-### What you will make
+### आप क्या बनाएँगे
 
-Here is how your finished piece will look:<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> Your browser does not support WebM video, try FireFox or Chrome </video> 
+यहाँ देखें कि आपका तैयार पीस कैसा दिखाई देगा:<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> आपका ब्राउज़र WebM वीडियो का समर्थन नहीं करता है, FireFox या Chrome आज़माएँ </video> 
 
-### What you will learn
+### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
++ [डिज़ाइन बेसिक 2D और 3D सामग्री](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}।
 
-### Additional information for educators
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस प्रोजेक्ट के लिए GitHub रिपॉज़िटरी का उपयोग करने के लिए फुटर में दिए लिंक का उपयोग करें, जिसमें 'en/resources' फोल्डर में सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) सम्मिलित हैं।
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
+यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### लाइसेंस
 
-***Render a snow scene*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***बर्फ का दृश्य प्रस्तुत करें*** 3Dami और b3d101 द्वारा, पीटर केम्प, टॉम हैन्स, मोनिक दीवानचंद [क्रिएटिव कॉमन्स एट्रीब्यूशन 4.0 अंतर्राष्ट्रीय लाइसेंस](http://creativecommons.org/licenses/by-sa/4.0/) के अंतर्गत लाइसेंस प्राप्त हैं।
