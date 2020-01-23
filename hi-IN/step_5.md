@@ -1,15 +1,15 @@
-## Render
+## प्रस्तुत करें
 
-Now you are ready to render!
+अब आप प्रस्तुत करने के लिए तैयार हैं!
 
-+ Scroll back to the top of the right-hand panel and click on **Animation**.
++ दाईं ओर के पैनल के शीर्ष पर वापस स्क्रॉल करें और **Animation** (एनिमेशन) पर क्लिक करें।
 
-![Click on animation](images/blender-100-end-frame.png)
+![एनिमेशन पर क्लिक करें](images/blender-100-end-frame.png)
 
-The computer is now creating hundreds of single images, then stitching them all together to make the film. For each step on the timeline, the computer will have to create one image, in this case 24 images (frames) per second.
+कंप्यूटर अब सैकड़ों एकल छवियाँ बना रहा है, फिर फिल्म बनाने के लिए उन सभी को एक साथ जोड़ रहा है। टाइमलाइन पर प्रत्येक चरण के लिए, कंप्यूटर को एक छवि बनानी होगी, इस मामले में प्रति सेकंड 24 छवियाँ (फ्रेम)।
 
-You'll notice that the resolution is not high: if you zoom in, you can see the pixels. If you had chosen HD or 4K rendering settings, the resolution of the video would be much better, but your computer would need much more time to render it.
+आप देखेंगे कि रेज़ोल्यूशन उच्च नहीं है: यदि आप ज़ूम इन करते हैं, तो आप पिक्सल देख सकते हैं। यदि आपने HD या 4K रेंडरिंग सेटिंग्स चुनी थी, तो वीडियो का रेज़ोल्यूशन बहुत बेहतर होगा, लेकिन आपके कंप्यूटर को इसे प्रस्तुत करने के लिए बहुत अधिक समय चाहिए होगा।
 
-Once the render has finished, go to the folder where you have stored the file. You should see the file of your four-second-long movie.
+एक बार प्रस्तुत करना समाप्त हो जाने के बाद, उस फ़ोल्डर पर जाएँ जहाँ आपने फ़ाइल संगृहीत की है। आपको अपनी चार-सेकंड-लंबी फिल्म की फ़ाइल देखनी चाहिए।
 
-+ Now play your movie!
++ अब अपनी फिल्म चलाएँ!
