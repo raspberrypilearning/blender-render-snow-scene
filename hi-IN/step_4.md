@@ -1,53 +1,53 @@
-## Render settings
+## सेटिंग्स प्रस्तुत करें
 
-Before render the animation, let's decide how the final video will be saved.
+एनिमेशन प्रस्तुत करने से पहले, आइए तय करें कि अंतिम वीडियो कैसे सहेजा जाएगा।
 
-+ On the right-hand panel, make sure you have selected the **Camera**.
++ दाएं हाथ के पैनल पर, सुनिश्चित करें कि आपने **कैमरा** चुना है।
 
-![Render menu](images/blender-render-menu.png)
+![रेंडर (प्रस्तुत करने का) मेनू](images/blender-render-menu.png)
 
-You need to change some settings as follows:
+आपको कुछ सेटिंग्स को निम्नानुसार बदलना होगा:
 
-### The resolution
+### रेज़ोल्यूशन
 
-+ Go to **Dimensions**.
++ **Dimensions** पर जाएँ।
 
-![Dimensions](images/blender-render-dimension.png)
+![आयाम](images/blender-render-dimension.png)
 
-Here you need to change the **Render Presets**, which define the resolution. For this tutorial you'll be using the TV PAL, which is the old television format.
+यहाँ आपको **Render Presets** को बदलने की आवश्यकता होगी, जो रेज़ोल्यूशन को परिभाषित करते हैं। इस ट्यूटोरियल के लिए आप TV PAL का उपयोग करेंगे, जो पुराना टेलीविज़न फॉर्मेट है।
 
-+ Select **TV PAL 16:9**.
++ **TV PAL 16:9** चुनें।
 
-![Select TV PAL](images/blender-render-presets.png)
+![TV PAL चुनें](images/blender-render-presets.png)
 
-If you select a higher resolution or frame rate, you will a really good quality video but it will take a very long time to render. Blender can render in HD and 4K, but if you are rendering on a rather slow computer, then you should be picking a lower resolution with lower quality so you don't have to wait a very long time for the rendering to finish. For Hollywood movies, a single frame can take several hours!
+यदि आप उच्च रेज़ोल्यूशन या फ्रेम रेट का चयन करते हैं, तो आप वास्तव में एक अच्छी गुणवत्ता वाला वीडियो देखेंगे लेकिन इसे प्रस्तुत करने में बहुत अधिक समय लगेगा। Blender HD और 4K में प्रस्तुत कर सकता है, लेकिन यदि आप प्रस्तुति किसी धीमे कंप्यूटर पर कर रहे हैं, तो आपको कम गुणवत्ता वाले कम रेज़ोल्यूशन को चुनना चाहिए ताकि आपको प्रस्तुति समाप्त करने के लिए बहुत अधिक समय तक इंतजार न करना पड़े। हॉलीवुड की फिल्मों के लिए, एक फ्रेम में कई घंटे लग सकते हैं!
 
-### Number of frames
+### फ्रेमों की संख्या
 
-You can also set the number of frames per second for your movie.
+आप अपनी फिल्म के लिए प्रति सेकंड फ्रेम की संख्या भी सेट कर सकते हैं।
 
-+ Change the number of frames per second to 24.
++ प्रति सेकंड फ़्रेम की संख्या को बदल कर 24 करें।
 
-![Frames per second](images/blender-render-frames.png)
+![फ्रेम प्रति सेकंड](images/blender-render-frames.png)
 
-### The output location
+### आउटपुट स्थान
 
-This is where Blender will save your files.
+यह वह स्थान है जहाँ Blender आपकी फाइलें सहेजेगा।
 
-+ Go to **Output**. By default, Blender saves your file in a `/tmp` folder, which will not be very helpful for finding it once it has been rendered.
++ **Output** पर जाएँ। डिफ़ॉल्ट रूप से, ब्लेंडर आपकी फ़ाइल को `/tmp` फ़ोल्डर में सहेजता है, जो इसे प्रस्तुत करने के बाद इसे खोजने के लिए बहुत उपयोगी नहीं होगा।
 
-![Output location](images/blender-render-output.png)
+![आउटपुट का स्थान](images/blender-render-output.png)
 
-+ Change the location by clicking on the **Folder** icon, then select the folder where you wish to save your finished movie. Press the **Accept** button when you are done.
++ **Folder** (फ़ोल्डर) आइकन पर क्लिक करके स्थान बदलें, फिर वह फ़ोल्डर चुनें जहाँ आप अपनी तैयार फिल्म को सहेजना चाहते हैं। जब आप पूरा कर लें तो **Accept** बटन दबाएँ।
 
-So now you have PAL resolution, 24 frames per second, and you are saving to a location that you can access.
+तो अब आपके पास PAL रेज़ोल्यूशन है, यह 24 फ्रेम प्रति सेकंड है, और आप उस स्थान पर सहेज रहे हैं जिसे आप एक्सेस कर सकते हैं।
 
-### The file format
+### फ़ाइल फॉर्मेट
 
-Lastly, you need to set the file format to a video format.
+अंत में, आपको फ़ाइल फॉर्मेट को किसी वीडियो फॉर्मेट में सेट करना होगा।
 
-+ Select the drop-down menu below where you type in the file name, and choose **FFmpeg video**, a format that you should be able to play on most computers.
++ नीचे दिए गए ड्रॉप-डाउन मेनू का चयन करें जहाँ आप फ़ाइल नाम टाइप करते हैं, और **FFmpeg video** चुनें, इस फ़ॉर्मेट को आप अधिकतर कंप्यूटरों पर चला सकेंगे।
 
-![Output location](images/blender-render-file-format.png)
+![आउटपुट का स्थान](images/blender-render-file-format.png)
 
-There are lots of other possible settings you could change, but these settings should work for now.
+अन्य बहुत सी संभावित सेटिंग्स हैं जिन्हें आप बदल सकते हैं, लेकिन फिलहाल यही सेटिंग्स ठीक रहेंगी।
