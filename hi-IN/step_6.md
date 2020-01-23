@@ -1,9 +1,9 @@
-## Challenge: different settings
+## चुनौती: विभिन्न सेटिंग्स
 
-+ Try selecting different resolutions from the **Render presets** menu and see how this changes the file size and the time it Blender needs to render the scene.
++ **Render presets** मेनू से विभिन्न रेज़ोल्यूशनों का चयन करने का प्रयास करें और देखें कि इससे फ़ाइल का आकार और Blender को दृश्य प्रस्तुत करने के लिए लगने वाला समय कैसे बदलता है।
 
-+ Try rendering the scene in **Cycles Render** mode by selecting it from the menu at the top of the screen.
++ स्क्रीन के शीर्ष पर मेनू से **Cycles Render** मोड को चुनकर दृश्य को उसमें प्रस्तुत करने का प्रयास करें।
 
-![Cycles render](images/cycles-render.png)
+![चक्र प्रस्तुति](images/cycles-render.png)
 
-Most professionals use this mode, but it can be really slow as it uses **ray tracing**. Ray tracing simulates the how light rays bounce around the scene. You can get super realistic images this way, but using **Cycles Render** mode requires a lot of computing power, so you might need to buy a very expensive graphics card to make it work on your computer.
+अधिकतर पेशेवर इस मोड का उपयोग करते हैं, लेकिन यह बहुत ही धीमा हो सकता है क्योंकि इसमें **ray tracing** का उपयोग किया जाता है। रे ट्रेसिंग सिमुलेट करता है कि प्रकाश की किरणें दृश्य के चारों ओर कैसे उछलती हैं। इस तरीके से आप बहुत बढ़िया वास्तविक छवियाँ प्राप्त कर सकते हैं, लेकिन **Cycles Render** मोड का उपयोग करने के लिए बहुत अधिक कंप्यूटिंग शक्ति चाहिए होती है, इसके लिए आपको बहुत अधिक महंगा ग्राफ़िक कार्ड खरीदने की ज़रूरत पड़ सकती है ताकि वह आपके कंप्यूटर पर काम कर सके।
