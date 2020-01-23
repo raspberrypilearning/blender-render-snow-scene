@@ -1,25 +1,25 @@
-## Check your animation
+## अपने एनिमेशन की जाँच करें
 
-For this project you will need the animation you created with the [Animate a snow scene](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene){:target="_blank"} resource. If you have not completed this resource, you can download and use the [starter snow scene](resources/starter-snow-scene.blend){:target="_blank"} instead.
+इस प्रोजेक्ट के लिए आपको [बर्फ के दृश्य का एनिमेशन करें](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene){:target="_blank"} संसाधन के साथ तैयार किए गए एनिमेशन की ज़रूरत होगी। यदि आपने इस संसाधन को पूरा नहीं किया है, तो आप इसके बजाय [स्टार्टर बर्फ दृश्य](resources/starter-snow-scene.blend){:target="_blank"} को डाउनलोड करके उसका उपयोग कर सकते हैं।
 
-+ Play your animation by clicking the **Play** icon or by moving the green bar on the timeline. Do you like how it looks?
++ **Play** (प्ले) आइकन पर क्लिक करके या टाइमलाइन पर हरे रंग की पट्टी को हिलाकर अपने एनिमेशन को चलाएँ। जैसा यह दिखाई दे रहा है क्या आपको यह पसंद है?
 
-![Play the animation](images/blender-play.png)
+![एनिमेशन चलाएँ](images/blender-play.png)
 
-+ Next, check whether the camera is in the right location by going to render view: press <kbd>F12</kbd> (<kbd>FN + F12</kbd>, if you're using a Mac). Press <kbd>Esc</kbd> when you want to exit this view.
++ इसके बाद, रेंडर व्यू में जाकर यह जांच करें कि क्या कैमरा सही स्थान पर है: <kbd>F12</kbd> दबाएं, यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाएं। जब आप इस दृश्य से बाहर निकलना चाहें तो <kbd>Esc</kbd> दबाएँ।
 
-You can also check what the full animation will look like from the **camera's** position.
+आप **कैमरे** की स्थिति से यह भी देख सकते हैं कि पूर्ण एनिमेशन कैसा दिखाई देगा।
 
-+ If you are using a desktop computer, press `0` on the numpad (the small set of number keys on the right hand side of your keyboard). Laptops don't have numpads, so instead select **View** > **Cameras** from the menu, then select **Active camera**.
++ यदि आप डेस्कटॉप कंप्यूटर का उपयोग कर रहे हैं, तो नमपैड (आपके कीबोर्ड के दाईं ओर संख्या कुंजी का छोटा सेट) पर `0` दबाएँ। लैपटॉप में numpad (नमपैड) नहीं होता है, इसलिए इसके बजाय मेनू से **View** > **Cameras** (व्यू > कैमरा) चुनें, फिर **Active camera** (सक्रिय कैमरा) का चयन करें।
 
-![Select view then camera](images/select-view-camera.png)
+![पहले दृश्य और फिर कैमरा का चयन करें](images/select-view-camera.png)
 
-Be careful to use the view menu nearest the editor window and **not** the one right at the bottom of the screen (marked with an X in the screenshot above).
+सावधान रहें कि संपादक विंडो के सबसे नज़दीक वाले दृश्य मेनू का उपयोग करना है और स्क्रीन के बिल्कुल नीचे (ऊपर दिए गए स्क्रीनशॉट में X से चिह्नित) वाले मेनू का **नहीं**।
 
-+ Click the **Play** icon to play the animation as seen through the camera.
++ कैमरे के ज़रिए दिखाई देने वाले एनिमेशन को चलाने के लिए **Play** आइकन पर क्लिक करें।
 
-![Play the animation](images/blender-play.png)
+![एनिमेशन चलाएँ](images/blender-play.png)
 
-+ Exit the view by pressing `0` or selecting the **Active camera** menu option again.
++ `0` को दबाकर या **सक्रिय कैमरा** मेनू विकल्प का फिर से चयन करके दृश्य से बाहर निकलें।
 
-If you are happy with the animation and everything looks fine from the camera's perspective, then you are ready to render your scene.
+अगर आप एनिमेशन से खुश हैं और कैमरे के दृष्टि से सबकुछ ठीक दिखता है, तो आप अपने दृश्य को प्रस्तुत करने के लिए तैयार हैं।
