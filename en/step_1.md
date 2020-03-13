@@ -11,11 +11,31 @@ Here is how your finished piece will look:
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
 
-### What you will learn
+--- collapse ---
+---
+title: What you will learn
+---
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will need
+---
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+--- /collapse ---
 
 ### Additional information for educators
 
@@ -23,9 +43,9 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial:
+The following video tutorial covers the same concepts:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### License
 

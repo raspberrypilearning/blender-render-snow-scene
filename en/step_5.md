@@ -1,15 +1,9 @@
-## Render
+## Challenge: different settings
 
-Now you are ready to render!
++ Try selecting different resolutions from the **Render presets** menu and see how this changes the file size and the time Blender needs to render the scene.
 
-+ Scroll back to the top of the right-hand panel and click on **Animation**.
++ Try rendering the scene in **Cycles Render** mode by selecting it from the menu at the top of the screen.
 
-![Click on animation](images/blender-100-end-frame.png)
+![Cycles render](images/cycles-render.png)
 
-The computer is now creating hundreds of single images, then stitching them all together to make the film. For each step on the timeline, the computer will have to create one image, in this case 24 images (frames) per second.
-
-You'll notice that the resolution is not high: if you zoom in, you can see the pixels. If you had chosen HD or 4K rendering settings, the resolution of the video would be much better, but your computer would need much more time to render it.
-
-Once the render has finished, go to the folder where you have stored the file. You should see the file of your four-second-long movie.
-
-+ Now play your movie!
+Most professionals use this mode, but it can be really slow as it uses **ray tracing**. Ray tracing simulates the how light rays bounce around the scene. You can get super realistic images this way, but using **Cycles Render** mode requires a lot of computing power, so you might need to buy a very expensive graphics card to make it work on your computer.

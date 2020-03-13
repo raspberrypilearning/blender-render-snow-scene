@@ -1,25 +1,53 @@
-## Check your animation
+## Render settings
 
-For this project you will need the animation you created with the [Animate a snow scene](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene){:target="_blank"} resource. If you have not completed this resource, you can download and use the [starter snow scene](resources/starter-snow-scene.blend){:target="_blank"} instead.
+Before render the animation, let's decide how the final video will be saved.
 
-+ Play your animation by clicking the **Play** icon or by moving the green bar on the timeline. Do you like how it looks?
++ On the right-hand panel, make sure you have selected the **Output Properties** tab.
 
-![Play the animation](images/blender-play.png)
+![Render menu](images/blender-render-menu.png)
 
-+ Next, check whether the camera is in the right location by going to render view: press <kbd>F12</kbd> (<kbd>FN + F12</kbd>, if you're using a Mac). Press <kbd>Esc</kbd> when you want to exit this view.
+You need to change some settings as follows:
 
-You can also check what the full animation will look like from the **camera's** position.
+### The resolution
 
-+ If you are using a desktop computer, press `0` on the numpad (the small set of number keys on the right hand side of your keyboard). Laptops don't have numpads, so instead select **View** > **Cameras** from the menu, then select **Active camera**.
++ Go to **Dimensions**.
 
-![Select view then camera](images/select-view-camera.png)
+![Dimensions](images/blender-render-dimension.png)
 
-Be careful to use the view menu nearest the editor window and **not** the one right at the bottom of the screen (marked with an X in the screenshot above).
+Here you need to change the **Render Presets**, which define the resolution. For this tutorial you'll be using the TV PAL, which is the old television format.
 
-+ Click the **Play** icon to play the animation as seen through the camera.
++ Select **TV PAL 16:9**.
 
-![Play the animation](images/blender-play.png)
+![Select TV PAL](images/blender-render-presets.png)
 
-+ Exit the view by pressing `0` or selecting the **Active camera** menu option again.
+If you select a higher resolution or frame rate, you will a really good quality video but it will take a very long time to render. Blender can render in HD and 4K, but if you are rendering on a rather slow computer, then you should be picking a lower resolution with lower quality so you don't have to wait a very long time for the rendering to finish. For Hollywood movies, a single frame can take several hours!
 
-If you are happy with the animation and everything looks fine from the camera's perspective, then you are ready to render your scene.
+### Number of frames
+
+You can also set the number of frames per second for your movie.
+
++ Change the number of frames per second to 24.
+
+![Frames per second](images/blender-render-frames.png)
+
+### The output location
+
+This is where Blender will save your files.
+
++ Go to **Output**. By default, Blender saves your file in a `/tmp` folder, which will not be very helpful for finding it once it has been rendered.
+
+![Output location](images/blender-render-output.png)
+
++ Change the location by clicking on the **Folder** icon, then select the folder where you wish to save your finished movie. Press the **Accept** button when you are done.
+
+So now you have PAL resolution, 24 frames per second, and you are saving to a location that you can access.
+
+### The file format
+
+Lastly, you need to set the file format to a video format.
+
++ Select the drop-down menu below where you type in the file name, and choose **FFmpeg video**, a format that you should be able to play on most computers.
+
+![Output location](images/blender-render-file-format.png)
+
+There are lots of other possible settings you could change, but these settings should work for now.
