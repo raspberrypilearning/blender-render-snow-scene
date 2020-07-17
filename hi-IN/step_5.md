@@ -1,6 +1,6 @@
 ## चुनौती: विभिन्न सेटिंग्स
 
-+ Try selecting different resolutions from the **Render presets** menu and see how this changes the file size and the time Blender needs to render the scene.
++ **Render presets** मेनू से विभिन्न रेज़ोल्यूशनों का चयन करने का प्रयास करें और देखें कि इससे फ़ाइल का आकार और Blender को दृश्य प्रस्तुत करने के लिए लगने वाला समय कैसे बदलता है।
 
 + स्क्रीन के शीर्ष पर मेनू से **Cycles Render** मोड को चुनकर दृश्य को उसमें प्रस्तुत करने का प्रयास करें।
 
