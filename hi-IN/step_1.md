@@ -22,7 +22,7 @@ Blender का उपयोग करके बर्फ के दृश्य 
 
 ### हार्डवेयर
 
-+ एक डेस्कटॉप या लैपटॉप कंप्यूटर जो ब्लेंडर सॉफ्टवेयर को चलाने में सक्षम है
++ एक डेस्कटॉप या लैपटॉप कंप्यूटर जो Blender सॉफ्टवेयर को चलाने में सक्षम है
 
 ### सॉफ्टवेयर
 
@@ -30,13 +30,13 @@ Blender का उपयोग करके बर्फ के दृश्य 
 
 \--- /collapse \---
 
-### शिक्षकों के लिए अधिक जानकारी
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
 अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"} का उपयोग करें।
 
 इस परियोजना के GitHub भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
-The following video tutorial covers the same concepts: <iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
+निम्नलिखित वीडियो ट्यूटोरियल समान अवधारणाओं को शामिल करता है: <iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### लाइसेंस
 
