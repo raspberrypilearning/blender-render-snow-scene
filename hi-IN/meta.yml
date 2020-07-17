@@ -7,10 +7,10 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: कला, मौसम
-technologies: blender (ब्लेंडर)
-site_areas: प्रोजेक्ट
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art, weather
+technologies: blender
+site_areas: projects
 hardware: ''
 software: blender
 version: 3
@@ -18,8 +18,6 @@ last_tested: 2017-01-01
 steps:
   - 
     title: भूमिका
-  - 
-    title: आपको किसकी ज़रूरत होगी
   - 
     title: अपने एनिमेशन की जाँच करें
   - 
