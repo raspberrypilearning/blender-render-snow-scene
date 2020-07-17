@@ -2,7 +2,7 @@
 
 एनिमेशन प्रस्तुत करने से पहले, आइए तय करें कि अंतिम वीडियो कैसे सहेजा जाएगा।
 
-+ On the right-hand panel, make sure you have selected the **Output Properties** tab.
++ दाएं हाथ के पैनल पर, सुनिश्चित करें कि आपने **Output Properties** टैब का चयन किया है।
 
 ![रेंडर (प्रस्तुत करने का) मेनू](images/blender-render-menu.png)
 
