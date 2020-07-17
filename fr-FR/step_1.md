@@ -2,23 +2,41 @@
 
 Render a snow scene animation using Blender.
 
-### Ce que tu feras
+### What you will make
 
 Here is how your finished piece will look:<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> Your browser does not support WebM video, try FireFox or Chrome </video> 
 
-### Ce que tu vas apprendre
+## \--- collapse \---
 
-Ce projet couvre des éléments des sections suivantes du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+## title: What you will learn
 
-+ [Concevoir des éléments de base en 2D et 3D](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-### Informations supplémentaires pour les éducateurs
++ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print) {: target = "_ blank"}.
+\--- /collapse \---
 
-Utilise le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en / resources'.
+## \--- collapse \---
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
+## title: What you will need
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"}.
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+The following video tutorial covers the same concepts: <iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
