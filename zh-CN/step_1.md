@@ -1,24 +1,42 @@
-## 简介
+## Introduction
 
 Render a snow scene animation using Blender.
 
-### 学习成果
+### What you will make
 
 Here is how your finished piece will look:<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> Your browser does not support WebM video, try FireFox or Chrome </video> 
 
-### 学习具体目标
+## \--- collapse \---
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"} 如下几方面内容:
+## title: What you will learn
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
 
-### 教师附加信息
+\--- /collapse \---
 
-如果您需要打印本项目文件，请使用[适合打印版本](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"}。
+## \--- collapse \---
 
-请使用页脚的链接访问此项目的GitHub版本库，文件夹'en/resources'里包含了所有资源（包括最终版示例） 。
+## title: What you will need
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"}.
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+The following video tutorial covers the same concepts: <iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
