@@ -17,9 +17,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Jogo de calculo mental
-  - 
-    title: O que vais precisar
+    title: Introduction
   - 
     title: Check your animation
   - 
