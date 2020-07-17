@@ -1,4 +1,4 @@
-## परिचय
+## भूमिका
 
 Blender का उपयोग करके बर्फ के दृश्य का एनिमेशन प्रस्तुत करें।
 
@@ -6,19 +6,37 @@ Blender का उपयोग करके बर्फ के दृश्य 
 
 यहाँ देखें कि आपका तैयार पीस कैसा दिखाई देगा:<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> आपका ब्राउज़र WebM वीडियो का समर्थन नहीं करता है, FireFox या Chrome आज़माएँ </video> 
 
-### आप क्या सीखेंगे
+## \--- collapse \---
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
+## title: आप क्या सीखेंगे
+
+इस परियोजना में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
 + [डिज़ाइन बेसिक 2D और 3D सामग्री](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}।
 
-### शिक्षकों के लिए अतिरिक्त जानकारी
+\--- /collapse \---
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"} का उपयोग करें।
+## \--- collapse \---
 
-इस प्रोजेक्ट के लिए GitHub रिपॉज़िटरी का उपयोग करने के लिए फुटर में दिए लिंक का उपयोग करें, जिसमें 'en/resources' फोल्डर में सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) सम्मिलित हैं।
+## title: आपको किन चीज़ों की आवश्यकता होगी
 
-यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
+### हार्डवेयर
+
++ एक डेस्कटॉप या लैपटॉप कंप्यूटर जो ब्लेंडर सॉफ्टवेयर को चलाने में सक्षम है
+
+### सॉफ्टवेयर
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 या उससे नया)
+
+\--- /collapse \---
+
+### शिक्षकों के लिए अधिक जानकारी
+
+अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"} का उपयोग करें।
+
+इस परियोजना के GitHub भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
+
+The following video tutorial covers the same concepts: <iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### लाइसेंस
 
