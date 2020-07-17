@@ -1,24 +1,42 @@
-## מבוא
+## Introduction
 
 Render a snow scene animation using Blender.
 
-### מה תעשה
+### What you will make
 
 Here is how your finished piece will look:<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> Your browser does not support WebM video, try FireFox or Chrome </video> 
 
-### מה תלמד
+## \--- collapse \---
 
-פרויקט זה מכסה את הנושאים הבאים של [ תוכנית הלימודים הדיגיטלית של רספברי פי ](http://rpf.io/curriculum):
+## title: What you will learn
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
 
-### מידע נוסף למורי המועדון
+\--- /collapse \---
 
-אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print).
+## \--- collapse \---
 
-השתמש בקישור בכותרת התחתונה לגישה לGitHub עבור פרויקט זה, אשר מכיל את כל המשאבים (כולל פרויקט סיום לדוגמה) בתיקיה ‘en/resources'.
+## title: What you will need
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/aXPnshjKmH8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/print){:target="_blank"}.
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+The following video tutorial covers the same concepts: <iframe width="560" height="315" src="https://www.youtube.com/embed/zd36Qym7UVg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
