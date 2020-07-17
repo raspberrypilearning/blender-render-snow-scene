@@ -2,7 +2,7 @@
 
 अब आप प्रस्तुत करने के लिए तैयार हैं!
 
-+ Click **Render** the top left of the screen and click on **Render Animation**.
++ स्क्रीन के ऊपरी बाएँ क्षेत्र में **Render** पर क्लिक करें और फिर **Render Animation**पर क्लिक करें।
 
 ![एनिमेशन पर क्लिक करें](images/blender-click-render-animation.png)
 
