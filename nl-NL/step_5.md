@@ -1,9 +1,9 @@
-## Challenge: different settings
+## Uitdaging: andere instellingen
 
-+ Try selecting different resolutions from the **Render presets** menu and see how this changes the file size and the time Blender needs to render the scene.
++ Probeer verschillende resoluties te selecteren uit het **Render Presets** menu en kijk hoe dit de bestandsgrootte verandert en de tijd die Blender nodig heeft om de scène te renderen.
 
-+ Try rendering the scene in **Cycles Render** mode by selecting it from the menu at the top of the screen.
++ Probeer de scène te renderen in de **Cycles Render** modus door deze te selecteren in het menu bovenaan het scherm.
 
 ![Cycles render](images/cycles-render.png)
 
-Most professionals use this mode, but it can be really slow as it uses **ray tracing**. Ray tracing simulates the how light rays bounce around the scene. You can get super realistic images this way, but using **Cycles Render** mode requires a lot of computing power, so you might need to buy a very expensive graphics card to make it work on your computer.
+De meeste professionals gebruiken deze modus, maar het kan erg langzaam zijn omdat het **ray tracing** gebruikt. Ray tracing simuleert hoe lichtstralen door de scène weerkaatsen. Je kunt op deze manier superrealistische afbeeldingen krijgen, maar het gebruik van de **Cycles Render** modus vereist veel rekenkracht, dus je moet mogelijk een erg dure grafische kaart kopen om dit op je computer te laten werken.
