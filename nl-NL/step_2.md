@@ -1,25 +1,25 @@
-## Check your animation
+## Controleer je animatie
 
-For this project you will need the animation you created with the [Animate a snow scene](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene){:target="_blank"} resource. If you have not completed this resource, you can download and use the [starter snow scene](resources/starter-snow-scene.blend){:target="_blank"} instead.
+Voor dit project heb je de animatie nodig die je hebt gemaakt in het [Animeer een sneeuwscène](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene){:target="_blank"} project. Als je deze bron niet hebt voltooid, kun je in plaats daarvan de [startsneeuwscène](resources/starter-snow-scene.blend){:target="_blank"} downloaden en gebruiken.
 
-+ Play your animation by clicking the **Play** icon or by moving the green bar on the timeline. Do you like how it looks?
++ Speel je animatie af door te klikken op het **Afspelen** pictogram of door de blauwe balk op de tijdlijn te verplaatsen. Hoe vind je dat het eruit ziet?
 
-![Play the animation](images/blender-play.png)
+![Speel de animatie af](images/blender-play.png)
 
-+ Next, check whether the camera is in the right location by going to render view: press <kbd>F12</kbd> (<kbd>FN + F12</kbd>, if you're using a Mac). Press <kbd>Esc</kbd> when you want to exit this view.
++ Controleer vervolgens of de camera op de juiste locatie staat door naar de renderweergave te gaan: druk op <kbd>F12</kbd> (<kbd>FN + F12</kbd>, als je een Mac gebruikt). Druk op <kbd>Esc</kbd> als je deze weergave wilt verlaten.
 
-You can also check what the full animation will look like from the **camera's** position.
+Je kunt ook controleren hoe de volledige animatie eruit ziet vanaf de positie van de **camera**.
 
-+ If you are using a desktop computer, press `0` on the numpad (the small set of number keys on the right hand side of your keyboard). Laptops don't have numpads, so instead select **View** > **Cameras** from the menu, then select **Active camera**.
++ Als je een desktopcomputer gebruikt, druk op `0` op het numerieke toetsenblok (de kleine set cijfertoetsen aan de rechterkant van je toetsenbord). Laptops hebben geen numerieke toetsenblokken, dus selecteer in plaats daarvan **Weergave** > **Cameras** in het menu en selecteer vervolgens **Actieve camera**.
 
-![Select view then camera](images/select-view-camera.png)
+![Selecteer weergave en vervolgens camera](images/select-view-camera.png)
 
-Be careful to use the view menu nearest the editor window and **not** the one right at the bottom of the screen (marked with an X in the screenshot above).
+Wees voorzichtig en gebruik het weergave menu dicht bij het editor venster en **niet** degene aan de onderkant van het scherm (gemarkeerd met een X in de schermafbeelding hierboven).
 
-+ Click the **Play** icon to play the animation as seen through the camera.
++ Klik op het **Afspelen** pictogram om de animatie af te spelen zoals gezien door de camera.
 
-![Play the animation](images/blender-play.png)
+![Speel de animatie af](images/blender-play.png)
 
-+ Exit the view by pressing `0` or selecting the **Active camera** menu option again.
++ Verlaat de weergave door op `0` te drukken of door de **Actieve camera** opnieuw te selecteren.
 
-If you are happy with the animation and everything looks fine from the camera's perspective, then you are ready to render your scene.
+Als je tevreden bent met de animatie en alles er goed uitziet vanuit het perspectief van de camera, dan ben je klaar om je scène te renderen.
