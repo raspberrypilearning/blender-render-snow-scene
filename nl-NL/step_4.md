@@ -1,15 +1,15 @@
-## Render
+## Renderen
 
-Now you are ready to render!
+Nu ben je klaar om te renderen!
 
-+ Click **Render** the top left of the screen and click on **Render Animation**.
++ Klik **Render** in de linkerbovenhoek van het scherm en klik op **Render Animation** (animatie weergeven).
 
-![Click on animation](images/blender-click-render-animation.png)
+![Klik op animatie](images/blender-click-render-animation.png)
 
-The computer is now creating hundreds of single images, then stitching them all together to make the film. For each step on the timeline, the computer will have to create one image, in this case 24 images (frames) per second.
+De computer maakt nu honderden afzonderlijke afbeeldingen en naait ze allemaal aan elkaar om de film te maken. Voor elke stap op de tijdlijn moet de computer één afbeelding maken, in dit geval 24 afbeeldingen (beelden) per seconde.
 
-You'll notice that the resolution is not high: if you zoom in, you can see the pixels. If you had chosen HD or 4K rendering settings, the resolution of the video would be much better, but your computer would need much more time to render it.
+Je zult zien dat de resolutie niet hoog is: als je inzoomt, kun je de pixels zien. Als je HD- of 4K-weergave-instellingen had gekozen, zou de resolutie van de video veel beter zijn, maar zou je computer veel meer tijd nodig hebben om deze te renderen.
 
-Once the render has finished, go to the folder where you have stored the file. You should see the file of your four-second-long movie.
+Als het renderen klaar is, ga dan naar de map waar je het bestand hebt opgeslagen. Je zou het bestand van je vier seconden durende film moeten zien.
 
-+ Now play your movie!
++ Speel nu je film af!
