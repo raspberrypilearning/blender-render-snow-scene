@@ -1,53 +1,53 @@
-## Render settings
+## Render-instellingen
 
-Before render the animation, let's decide how the final video will be saved.
+Laten we, voordat we de animatie renderen, beslissen hoe de uiteindelijke video wordt opgeslagen.
 
-+ On the right-hand panel, make sure you have selected the **Output Properties** tab.
++ Zorg ervoor dat je in het rechterpaneel het tabblad **Output Properties** (uitvoereigenschappen) hebt geselecteerd.
 
-![Render menu](images/blender-render-menu.png)
+![Rendermenu](images/blender-render-menu.png)
 
-You need to change some settings as follows:
+Je moet enkele instellingen als volgt wijzigen:
 
-### The resolution
+### De resolutie
 
-+ Go to **Dimensions**.
++ Ga naar **Dimensie**.
 
-![Dimensions](images/blender-render-dimension.png)
+![Dimensies](images/blender-render-dimension.png)
 
-Here you need to change the **Render Presets**, which define the resolution. For this tutorial you'll be using the TV PAL, which is the old television format.
+Hier moet je de **Render Presets** wijzigen, die de resolutie bepalen. Voor dit project gebruik je TV PAL, het oude televisieformaat.
 
-+ Select **TV PAL 16:9**.
++ Selecteer **TV PAL 16:9**.
 
-![Select TV PAL](images/blender-render-presets.png)
+![Selecteer TV PAL](images/blender-render-presets.png)
 
-If you select a higher resolution or frame rate, you will a really good quality video but it will take a very long time to render. Blender can render in HD and 4K, but if you are rendering on a rather slow computer, then you should be picking a lower resolution with lower quality so you don't have to wait a very long time for the rendering to finish. For Hollywood movies, a single frame can take several hours!
+If you select a higher resolution or frame rate, you will get a really good quality video but it will take a very long time to render. Blender kan renderen in HD en 4K, maar als je rendert op een nogal trage computer, dan zou je een lagere resolutie met een lagere kwaliteit moeten kiezen, zodat je niet erg lang hoeft te wachten voordat het renderen is voltooid. Voor Hollywood-films kan een enkel beeld enkele uren duren!
 
-### Number of frames
+### Aantal beelden
 
-You can also set the number of frames per second for your movie.
+Je kunt ook het aantal beelden per seconde instellen voor je film.
 
-+ Change the number of frames per second to 24.
++ Wijzig het aantal beelden per seconde (frame rate) naar 24.
 
-![Frames per second](images/blender-render-frames.png)
+![Beelden per seconde](images/blender-render-frames.png)
 
-### The output location
+### De uitvoerlocatie
 
-This is where Blender will save your files.
+Dit is waar Blender je bestanden opslaat.
 
-+ Go to **Output**. By default, Blender saves your file in a `/tmp` folder, which will not be very helpful for finding it once it has been rendered.
++ Ga naar **Output** (uitvoer). Standaard slaat Blender je bestand op in een `/tmp` map, wat niet erg handig is om het terug te vinden als het eenmaal is gerenderd.
 
-![Output location](images/blender-render-output.png)
+![Uitvoerlocatie](images/blender-render-output.png)
 
-+ Change the location by clicking on the **Folder** icon, then select the folder where you wish to save your finished movie. Press the **Accept** button when you are done.
++ Verander de locatie door op het **Map** pictogram te klikken en selecteer vervolgens de map waar je de voltooide film wilt opslaan. Druk op de **Accepteer** knop wanneer je klaar bent.
 
-So now you have PAL resolution, 24 frames per second, and you are saving to a location that you can access.
+Dus nu heb je PAL-resolutie, 24 beelden per seconde, en je slaat op op een locatie waar je toegang toe hebt.
 
-### The file format
+### Het bestandsformaat
 
-Lastly, you need to set the file format to a video format.
+Ten slotte moet je het bestandsformaat instellen op een videoformaat.
 
-+ Select the drop-down menu below where you type in the file name, and choose **FFmpeg video**, a format that you should be able to play on most computers.
++ Selecteer het uitklapmenu vlak onder waar je de bestandsnaam typt en kies **FFmpeg video**, een formaat dat je op de meeste computers moet kunnen afspelen.
 
-![Output location](images/blender-render-file-format.png)
+![Uitvoerlocatie](images/blender-render-file-format.png)
 
-There are lots of other possible settings you could change, but these settings should work for now.
+Er zijn tal van andere mogelijke instellingen die je zou kunnen wijzigen, maar deze instellingen zouden voorlopig moeten werken.
