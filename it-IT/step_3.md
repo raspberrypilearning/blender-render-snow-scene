@@ -20,7 +20,7 @@ Here you need to change the **Render Presets**, which define the resolution. For
 
 ![Select TV PAL](images/blender-render-presets.png)
 
-If you select a higher resolution or frame rate, you will a really good quality video but it will take a very long time to render. Blender can render in HD and 4K, but if you are rendering on a rather slow computer, then you should be picking a lower resolution with lower quality so you don't have to wait a very long time for the rendering to finish. For Hollywood movies, a single frame can take several hours!
+If you select a higher resolution or frame rate, you will get a really good quality video but it will take a very long time to render. Blender can render in HD and 4K, but if you are rendering on a rather slow computer, then you should be picking a lower resolution with lower quality so you don't have to wait a very long time for the rendering to finish. For Hollywood movies, a single frame can take several hours!
 
 ### Number of frames
 
