@@ -2,7 +2,7 @@
 title: Render een sneeuwscène
 hero_image: images/banner.png
 description: Render een sneeuwscène-animatie met Blender
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -16,8 +16,10 @@ software: blender
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Controleer je animatie
-  - title: Render-instellingen
-  - title: Renderen
-  - title: "Uitdaging: andere instellingen"
+- title: Inleiding
+  completion: engaged
+- title: Controleer je animatie
+- title: Render-instellingen
+- title: Renderen
+  completion: internal
+- title: 'Uitdaging: andere instellingen'
