@@ -2,7 +2,7 @@
 title: बर्फ का दृश्य प्रस्तुत करें
 hero_image: images/banner.png
 description: Blender का उपयोग करके बर्फ के दृश्य का एनिमेशन प्रस्तुत करें।
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -16,8 +16,12 @@ software: blender
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: भूमिका
-  - title: अपने एनिमेशन की जाँच करें
-  - title: सेटिंग्स प्रस्तुत करें
-  - title: प्रस्तुत करें
-  - title: "चुनौती: विभिन्न सेटिंग्स"
+- title: भूमिका
+- title: अपने एनिमेशन की जाँच करें
+- title: सेटिंग्स प्रस्तुत करें
+  completion:
+  - engaged
+- title: प्रस्तुत करें
+  completion:
+  - internal
+- title: 'चुनौती: विभिन्न सेटिंग्स'
