@@ -17,9 +17,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Controleer je animatie
 - title: Render-instellingen
+  completion:
+  - engaged
 - title: Renderen
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: andere instellingen'

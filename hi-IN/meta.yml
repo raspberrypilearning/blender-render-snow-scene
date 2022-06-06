@@ -17,9 +17,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: भूमिका
-  completion: engaged
 - title: अपने एनिमेशन की जाँच करें
 - title: सेटिंग्स प्रस्तुत करें
+  completion:
+  - engaged
 - title: प्रस्तुत करें
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: विभिन्न सेटिंग्स'

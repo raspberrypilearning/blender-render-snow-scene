@@ -17,9 +17,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Check your animation
 - title: Render settings
+  completion:
+  - engaged
 - title: Render
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: different settings'
