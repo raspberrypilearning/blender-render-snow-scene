@@ -25,3 +25,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: different settings'
+  completion:
+  - external
