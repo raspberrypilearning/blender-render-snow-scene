@@ -4,7 +4,7 @@ For this project you will need the animation you created with the [Animate a sno
 
 --- task ---
 
-Play your animation by clicking the **Play** icon or by moving the green bar on the timeline. Do you like how it looks?
+Play your animation by clicking the **Play** icon or by moving the green bar on the timeline at the bottom of the screen. Do you like how it looks?
 
 ![Play the animation](images/blender-play.png)
 
