@@ -9,7 +9,7 @@ Your browser does not support WebM video, try FireFox or Chrome
 
 ### What you will need
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v4.3.2 or newer)
 
 
 If you have access to YouTube, you can watch these instructions as a video:
