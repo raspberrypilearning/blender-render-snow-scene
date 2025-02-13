@@ -4,7 +4,7 @@ For this project you will need the animation you created with the [Animate a sno
 
 --- task ---
 
-Play your animation by clicking the **Play** icon or by moving the green bar on the timeline at the bottom of the screen. Do you like how it looks?
+Play your animation by clicking the **Play** icon or by moving the bar on the timeline at the bottom of the screen. Do you like how it looks?
 
 ![Play the animation](images/blender-play.png)
 
@@ -12,7 +12,7 @@ Play your animation by clicking the **Play** icon or by moving the green bar on 
  
 --- task ---
 
-Check whether the camera is in the right location by going to render view: press <kbd>F12</kbd> (<kbd>FN + F12</kbd>, if you're using a Mac). Press <kbd>Esc</kbd> when you want to exit this view.
+Check whether the camera is in the right location by going to render view: click ‘Render Image’ in the ‘Render’ menu.
 
 --- /task ---
 
@@ -20,7 +20,7 @@ You can also check what the full animation will look like from the **camera's** 
 
 --- task ---
 
-If you are using a desktop computer, press `0` on the numpad (the small set of number keys on the right hand side of your keyboard). Laptops don't have numpads, so instead select **View** > **Cameras** from the menu, then select **Active camera**.
+Select **View** > **Cameras** from the menu, then select **Active camera**.
 
 ![Select view then camera](images/select-view-camera.png)
 
@@ -38,7 +38,7 @@ Click the **Play** icon to play the animation as seen through the camera.
 
 --- task ---
 
-Exit the view by pressing `0` or selecting the **Active camera** menu option again.
+Exit the view by selecting the **Active camera** menu option again.
 
 --- /task ---
 
